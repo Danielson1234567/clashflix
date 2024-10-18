@@ -3,3 +3,6 @@ body{  color :blue;
 
 
 }
+header {
+    border-bottom: solid 2px rgb(79, 238, 185);
+}
