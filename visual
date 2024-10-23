@@ -1,7 +1,7 @@
 body{  color :blue;
     background-color: paleturquoise;
    
-        border: solid 3cap rgb(42, 122, 228);
+        border: solid 3cap rgb(42, 200, 228);
         padding: 20px;
         font-size: 32px;
         color: rgb(42, 122, 228);
@@ -18,7 +18,7 @@ iframe{
     border: solid 1cap rgb(42, 122, 228);
 }
 section {
-    background: rgb(184,156,213);
+    background: rgb(125, 193, 233);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
