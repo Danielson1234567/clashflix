@@ -1,7 +1,7 @@
 body{  color :blue;
     background-color: paleturquoise;
    
-        margin: solid 3cap rgb(42, 122, 228);
+        border: solid 3cap rgb(42, 122, 228);
         padding: 20px;
         font-size: 32px;
         color: rgb(42, 122, 228);
