@@ -12,3 +12,7 @@ body{  color :blue;
     }
 
 
+iframe{
+    
+    border-bottom: solid 3cap rgb(42, 122, 228);
+}
