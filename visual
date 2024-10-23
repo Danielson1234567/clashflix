@@ -8,6 +8,7 @@ body{  color :blue;
     
         header {
             border: solid 2px white;
+            font-size: 32px;
         }
     }
 
