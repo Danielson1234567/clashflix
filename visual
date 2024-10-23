@@ -16,3 +16,6 @@ iframe{
     
     border: solid 1cap rgb(42, 122, 228);
 }
+section{
+background-color: azure;
+}
