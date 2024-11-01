@@ -21,6 +21,7 @@ iframe{
     padding-bottom: 30px;
     padding-top: 30px;
     display: flex;
+    justify-content: center;
 }
 .outrosvideos{
     background: rgba(57, 255, 255, 0.315);
