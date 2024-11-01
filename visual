@@ -14,9 +14,6 @@ body{  color :blue;
 
 
 iframe{
-    width: 10%;
-    height: 10%;
-    
     border: solid 1cap rgb(42, 122, 228);
 }
 section {
