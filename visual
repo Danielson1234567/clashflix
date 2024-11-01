@@ -18,7 +18,7 @@ iframe{
     border: solid 1cap rgb(42, 122, 228);
 }
 section {
-    background: rgb(255, 0, 0);
+    background: rgba(57, 255, 255, 0.315);
     padding-bottom: 30px;
     padding-top: 30px;
     display: flex;
